@@ -1,0 +1,4 @@
+COS201|Computer Programming I|3
+IFT211|Digital Logic Design|2
+SEN201|Introduction to Software Engineering|2
+COS203|Discrete Structures|2
